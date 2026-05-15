@@ -4,7 +4,7 @@ A comprehensive learning project covering Next.js fundamentals through a complet
 
 ## 📊 Progress Tracker
 
-**Completed: 3/43** | **Current: Chapter 4** | **Remaining: 40**
+**Completed: 3/43** | **Current: Chapter 8** | **Remaining: 40**
 
 ---
 
@@ -15,11 +15,11 @@ A comprehensive learning project covering Next.js fundamentals through a complet
 - [x] **Chapter 1** | 00:00 | Intro ✅
 - [x] **Chapter 2** | 02:11 | What is Next JS ✅
 - [x] **Chapter 3** | 03:11 | App Router vs Pages Router ✅
-- [ ] **Chapter 4** | 04:31 | Creating Project (IN PROGRESS)
+- [ ] **Chapter 4** | 04:31 | Creating Project
 - [ ] **Chapter 5** | 08:33 | Running Project
 - [ ] **Chapter 6** | 10:36 | Project Structure
 - [ ] **Chapter 7** | 13:43 | Routing
-- [ ] **Chapter 8** | 21:37 | Route Segments
+- [ ] **Chapter 8** | 21:37 | Route Segments (IN PROGRESS)
 - [ ] **Chapter 9** | 24:12 | Layouts
 - [ ] **Chapter 10** | 32:55 | Linking and Navigating
 - [ ] **Chapter 11** | 37:29 | useRouter Hook
