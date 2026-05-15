@@ -2,6 +2,14 @@
   "name": "blogs-today",
   "version": "0.1.0",
   "private": true,
+  "description": "Next.js 43-chapter learning project and blog tutorial",
+  "homepage": "https://github.com/Bijon2002/NextJs-43-chapters",
+  "keywords": [
+    "nextjs",
+    "tutorial",
+    "blog",
+    "learning"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

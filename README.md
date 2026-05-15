@@ -1,6 +1,6 @@
 # Next.js 43 Chapters Learning Journey
 
-A comprehensive learning project covering Next.js fundamentals through a complete blog application with MongoDB integration.
+A concise learning tracker and tutorial project: 43 videos covering Next.js fundamentals and a full blog app with MongoDB.
 
 ## 📊 Progress Tracker
 
