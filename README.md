@@ -19,8 +19,8 @@ A concise learning tracker and tutorial project: 43 videos covering Next.js fund
 - ✅ **Chapter 5** | 08:33 | Running Project
 - ✅ **Chapter 6** | 10:36 | Project Structure
 - ✅ **Chapter 7** | 13:43 | Routing
-- 🟡 **Chapter 8** | 21:37 | Route Segments (IN PROGRESS)
-- [ ] **Chapter 9** | 24:12 | Layouts
+- ✅ **Chapter 8** | 21:37 | Route Segments (IN PROGRESS)
+- ✅ **Chapter 9** | 24:12 | Layouts
 - [ ] **Chapter 10** | 32:55 | Linking and Navigating
 - [ ] **Chapter 11** | 37:29 | useRouter Hook
 - [ ] **Chapter 12** | 44:20 | Server Components vs Client Components
